@@ -20,6 +20,14 @@
 
 ---
 
+## 镜像说明 / Source
+
+本副本镜像自 [BCMI 组织](https://github.com/bcmi)。
+
+- 上游仓库：[bcmi/libcom](https://github.com/bcmi/libcom)
+- 中文演示 / 教程视频（UP ustcnewly，「Libcom演示视频: 图像合成/融图/溶图集成工作台」）：[Bilibili BV1ZTmMBiEWF](https://www.bilibili.com/video/BV1ZTmMBiEWF/)
+- 上述演示的英文版：[Bilibili BV1cFmMBGEoH](https://www.bilibili.com/video/BV1cFmMBGEoH/)
+- 在线演示（可调用 libcom 功能）：[https://libcom.ustcnewly.com/](https://libcom.ustcnewly.com/)
 
 ## Introduction
 **_libcom_ (the library of image composition) is an image composition toolbox.** The goal of [image composition](https://github.com/bcmi/Awesome-Image-Composition) ([object insertion](https://github.com/bcmi/Awesome-Object-Insertion)) is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background. Generally speaking, image composition could be used to combine the visual elements from different images.
